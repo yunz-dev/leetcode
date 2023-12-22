@@ -1,3 +1,5 @@
+[Link](https://leetcode.com/problems/contains-duplicate/)
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 First thought was to make another array but time complexity would be fail.
